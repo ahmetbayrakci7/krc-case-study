@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <sku>ABC123</sku>
+        <name>Ürün Adı 3</name>
+        <description>Ürün Açıklaması 3</description>
+        <price>300.00</price>
+        <category>Kategori 3</category>
+        <brand>Marka 1</brand>
+        <availability>Stokta</availability>
+    </product>
+    <product>
+        <sku>DEF456</sku>
+        <name>Ürün Adı 4</name>
+        <description>Ürün Açıklaması 4</description>
+        <price>400.00</price>
+        <category>Kategori 4</category>
+        <brand>Marka 2</brand>
+        <availability>Tükendi</availability>
+    </product>
+</products>

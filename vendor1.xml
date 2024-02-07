@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed>
+    <product>
+        <id>12345</id>
+        <name>Ürün Adı 1</name>
+        <description>Ürün Açıklaması 1</description>
+        <price>100.00</price>
+        <category>Kategori 1</category>
+        <image>https://example.com/image1.jpg</image>
+    </product>
+    <product>
+        <id>67890</id>
+        <name>Ürün Adı 2</name>
+        <description>Ürün Açıklaması 2</description>
+        <price>200.00</price>
+        <category>Kategori 2</category>
+        <image>https://example.com/image2.jpg</image>
+    </product>
+</feed>

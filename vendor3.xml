@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+        <id>123456</id>
+        <title>Ürün Adı 5</title>
+        <description>Ürün Açıklaması 5</description>
+        <price>500.00</price>
+        <category>Kategori 5</category>
+        <manufacturer>Üretici 1</manufacturer>
+        <shipping>
+            <cost>10.00</cost>
+            <time>2-3 gün</time>
+        </shipping>
+    </item>
+    <item>
+        <id>678901</id>
+        <title>Ürün Adı 6</title>
+        <description>Ürün Açıklaması 6</description>
+        <price>600.00</price>
+        <category>Kategori 6</category>
+        <manufacturer>Üretici 2</manufacturer>
+        <shipping>
+            <cost>15.00</cost>
+            <time>1-2 gün</time>
+        </shipping>
+    </item>
+</items>
